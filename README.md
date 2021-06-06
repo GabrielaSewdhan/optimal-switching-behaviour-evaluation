@@ -30,5 +30,6 @@ pip3 install -r requirements.txt
 
 ```
 5. Run with Notebook IDE of choice
+If using Jupyter notebook with a virtual environment, to get the commands to add the environment to your kernel, [click here.](https://janakiev.com/blog/jupyter-virtual-envs/)
 
 
